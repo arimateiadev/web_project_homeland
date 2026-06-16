@@ -2,7 +2,6 @@ body{
     font-family: "Inter", Helvetica, sans-serif;
 }
 
-
 .page{
     background-color: #2a2c2f;
     color: #ffff;
@@ -14,23 +13,9 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 1883px;
+    width: 100%;
 
 }
-
-@media screen and (max-width: 768px){
-    .page{ 
-    height: 1659px;
-    }
-
-}
-
-@media screen and (max-width: 320px){
-    .page{
-     height: 1550px;
-    }
-
-}
-    
+ 
 
    

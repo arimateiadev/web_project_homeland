@@ -1,9 +1,19 @@
 .footer{
     max-width: 166px;
-    margin: auto 0 24px;
+    margin: 92px 0 24px;
     font-weight: 400;
     font-size: 14px;
     line-height: 16px;
     text-align: right;
     
 }
+
+@media screen and (max-width: 544px){
+    .footer{
+        margin-top: 64px;
+        line-height: 14px; 
+        
+    }
+
+}
+ 

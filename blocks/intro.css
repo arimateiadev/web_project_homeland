@@ -44,7 +44,7 @@
     margin: 0;
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1024px){
    
     .intro__title{
     max-width: 707px;
@@ -65,10 +65,10 @@
     .intro__author{
         padding: 0;
     }
+
     }   
  
-
-    @media screen and (max-width: 320px){
+    @media screen and (max-width: 544px){
     
     .intro__title{
     max-width: 288px;
