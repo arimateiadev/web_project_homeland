@@ -44,7 +44,6 @@ background: linear-gradient(90deg, rgba(2, 120, 254, 0.25) 0%, rgba(0, 58, 123, 
 .place__artist{
     grid-area: artist;
     align-self: end;
-    grid-area: artist;
 }
 .place__artist-title{
     max-width: 58px;
@@ -103,9 +102,9 @@ background: linear-gradient(90deg, rgba(2, 120, 254, 0.25) 0%, rgba(0, 58, 123, 
     "title"
     "artist"
     "image"
+    "button"
     "paragraph"
-    "button";
-    
+    ;
     }
     .place__title{
     max-width: 288px;
