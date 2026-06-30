@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Projeto da Sprint 5 do bootcamp de Desenvolvimento Web da Tripleten.
+Projeto da Sprint 5 e 6 do bootcamp de Desenvolvimento Web da Tripleten.
 
 Landing page responsiva desenvolvida seguindo a metodologia BEM e o design do Figma. O layout é funcional em desktop, tablet e mobile.
 
@@ -18,6 +18,7 @@ Landing page responsiva desenvolvida seguindo a metodologia BEM e o design do Fi
 - CSS3
 - Metodologia BEM
 - Flexbox
+- Grid
 - Media Queries
 
 ## Autor
