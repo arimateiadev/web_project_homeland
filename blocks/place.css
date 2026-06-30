@@ -52,7 +52,7 @@ background: linear-gradient(90deg, rgba(2, 120, 254, 0.25) 0%, rgba(0, 58, 123, 
     line-height: 100%;
     color:#AAAAAA;
     padding-bottom: 8px;
-    letter-spacing: 12%;
+    letter-spacing: 0.12em;
 }
 .place__artist-name{
     max-width: 456px;
